@@ -34,7 +34,8 @@
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
     "electron-updater": "^6.1.7",
-    "github-markdown-css": "^5.5.0"
+    "github-markdown-css": "^5.5.0",
+    "process": "^0.11.10"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^2.0.0",
