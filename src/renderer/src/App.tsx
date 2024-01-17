@@ -1,7 +1,9 @@
+import Editor from "./components/Editor"
+
 function App(): JSX.Element {
   return (
     <div className="container">
-      lets get started
+      <Editor />
     </div>
   )
 }
