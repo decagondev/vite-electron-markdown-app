@@ -11,7 +11,7 @@ function App(): JSX.Element {
   return (
     <div className="container">
       <Editor onChange={handleDocChange} initialDoc={doc} />
-      <Preview />
+      <Preview doc={doc} />
     </div>
   )
 }
